@@ -1,0 +1,81 @@
+.menu {
+  font-size: 1.5em;
+  position:fixed;
+  align-self: center;
+  top: 0px;
+  right: 20%;
+}
+.menu ul {
+  align-items: center;
+  text-align: center;
+  align-content: center;
+  align-self: center;
+}
+.menu li {
+  display: inline-block;
+  padding: 20px 0px 0px 0px;
+}
+.menu a {
+  color: #ccc;
+  padding: 20px;
+  text-decoration: none;
+}
+
+.menu a:hover{
+  color: #aaa;
+}
+
+.content {
+  margin-top: 6em;
+}
+
+#head {
+  text-align: center;
+  justify-content: center;
+}
+.cover {
+  background: rgba(0,0,0,.5);
+  display: inline-block;
+  min-height: 50vh;
+  border-radius: 10px;
+  width: 70%;
+}
+#cover {
+  width: 100%;
+  border-radius: 10px;
+}
+.avatar, .name, #cover {
+  display: block;
+}
+.avatar {
+  border-radius: 50%;
+  width: 10%;
+  height: cover;
+  border: solid;
+  color: white;
+  margin-top: -100px;
+  position: relative;
+}
+#info {
+  text-align: center;
+}
+.info {
+  background: rgba(0,0,0,.5);
+  display: inline-block;
+  min-height: 50vh;
+  border-radius: 10px;
+  width: 70%;
+  text-align: left;
+  margin: 20px;
+}
+
+.book h2 {
+  text-align: center;
+}
+
+.end {
+  text-align: center;
+}
+.end a {
+  padding-right: 20px;
+}
