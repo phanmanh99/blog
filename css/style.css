@@ -69,13 +69,13 @@
   margin: 20px;
 }
 
-.book h2 {
+#book h2 {
   text-align: center;
 }
 
-.end {
+#end {
   text-align: center;
 }
-.end a {
+#end a {
   padding-right: 20px;
 }
