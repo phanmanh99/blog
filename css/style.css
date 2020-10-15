@@ -53,7 +53,7 @@
   height: cover;
   border: solid;
   color: white;
-  margin-top: -7%;
+  margin-top: -100px;
   position: relative;
 }
 #info {
@@ -69,13 +69,16 @@
   margin: 20px;
 }
 
+#skill{
+  padding: 5%;
+}
 #book h2 {
   text-align: center;
 }
 
-#end {
+.end {
   text-align: center;
 }
-#end a {
+.end a {
   padding-right: 20px;
 }
